@@ -16,3 +16,9 @@ li {
   display: block;
   margin-bottom: 10px;
 }
+.head1 {
+  padding-top: 5px;
+  padding-bottom: 13px;
+  text-align: center;
+  background-color: rgba(10, 10, 10, 1);
+}

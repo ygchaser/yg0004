@@ -22,3 +22,8 @@ li {
   text-align: center;
   background-color: rgba(10, 10, 10, 1);
 }
+.txt01 {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 500;

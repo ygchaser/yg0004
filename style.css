@@ -54,12 +54,14 @@ li {
 .container_txt {
   padding: 0px 46px;
 }
-.container_cards {
-  margin: 15px 0px;
-  padding: 0px 30px;
-}
-.txt_explain {
+.txt3 {
   font-size: 15px;
   font-weight: 300;
   text-align: center;
 }
+
+.container_cards {
+  margin: 15px 0px;
+  padding: 0px 30px;
+}
+

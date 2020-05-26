@@ -58,3 +58,8 @@ li {
   margin: 15px 0px;
   padding: 0px 30px;
 }
+.txt_explain {
+  font-size: 15px;
+  font-weight: 300;
+  text-align: center;
+}
